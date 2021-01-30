@@ -4,3 +4,4 @@ I have been coding since I was 11-12.
 I can speak,English,Russian and Armenian fluently. Currently I'm learning, German, Italian and Japanese.
 I can easily get along with people. Im willing to learn new things.
 ## Languages 
+https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png
