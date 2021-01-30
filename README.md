@@ -5,4 +5,5 @@ I can speak,English,Russian and Armenian fluently. Currently I'm learning, Germa
 I can easily get along with people. Im willing to learn new things.
 ## Languages 
 ![HTML](https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png)
-![CSS3](https://firebearstudio.com/blog/wp-content/uploads/2015/03/The-Best-CSS-Frameworks-213x300.png) 
+![CSS3](https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png) 
+![PYTHON](https://leeweimin.com/wp-content/uploads/2018/09/icons8-python-1.svg)
