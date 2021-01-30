@@ -12,3 +12,5 @@ I can easily get along with people. Im willing to learn new things.
 ![Figma](https://cdn.iconscout.com/icon/free/png-256/figma-1693589-1442630.png)
 ![PS](https://www.freepnglogos.com/uploads/photoshop-png-logo/photoshop-logo-photoshop-icon-myiconfinder-15.png)
 ![AI](https://iconarchive.com/download/i98176/dakirby309/simply-styled/Adobe-Illustrator.ico)
+## Contact me 
+Email - shiro8501@gmail.com 
