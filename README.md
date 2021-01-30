@@ -10,3 +10,5 @@ I can easily get along with people. Im willing to learn new things.
 ![JS](https://iconape.com/wp-content/files/vr/353405/svg/javascript-js-seeklogo.com.svg)
 ## Tools
 ![Figma](https://cdn.iconscout.com/icon/free/png-256/figma-1693589-1442630.png)
+![PS](https://www.freepnglogos.com/uploads/photoshop-png-logo/photoshop-logo-photoshop-icon-myiconfinder-15.png)
+![AI](https://iconarchive.com/download/i98176/dakirby309/simply-styled/Adobe-Illustrator.ico)
