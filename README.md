@@ -1,5 +1,5 @@
 ## About Me 
-<p>My name is シロ.I am 16 years old.</p>
+<p>My name is シロ.I am a web developer and a graphic designer.</p>
 <p>I have been coding since I was 11-12.</p>
 <p>I can speak,English,Russian and Armenian fluently. Currently I'm learning, German, Italian and Japanese.</p>
 <p>I can easily get along with people. And Im willing to learn new things.</p>
@@ -15,8 +15,8 @@ Unfortunately the JS image is not working
 ![PS](https://camo.githubusercontent.com/605ecc1ec07881dd9ecfe0ddaabd87ad34988c0641c822028b954af957a981e5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d50686f746f53686f702d3331413846463f7374796c653d666f722d7468652d6261646765266c6f676f3d41646f62652d70686f746f73686f70266c6f676f436f6c6f723d666666666666)
 
 ![VSC](https://camo.githubusercontent.com/94e244a7130553ee39973bf825a9478e859810343ca8ca7dbeebbf0f880d3dac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653432d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d666666666666)
- Adobe Illustrator,but the image is not working.
+ Adobe Illustrator and MagicaVoxel,but the images are not working.
 ## Contact me 
 Email - shiro8501@gmail.com
 ## P.S
-Hope that those 2 images that are not working won't affect your first impression on me:)
+Hope that those 3 images that are not working won't affect your first impression on me:)
