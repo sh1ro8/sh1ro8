@@ -8,3 +8,5 @@ I can easily get along with people. Im willing to learn new things.
 ![CSS3](https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png) 
 ![PYTHON](https://leeweimin.com/wp-content/uploads/2018/09/icons8-python-1.svg)
 ![JS](https://iconape.com/wp-content/files/vr/353405/svg/javascript-js-seeklogo.com.svg)
+## Tools
+![Figma](https://cdn.iconscout.com/icon/free/png-256/figma-1693589-1442630.png)
