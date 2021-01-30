@@ -1,10 +1,9 @@
 ## About Me 
-<pre>
-My name is シロ.I am 16 years old.
+<p>My name is シロ.I am 16 years old.</p>
 I have been coding since I was 11-12.
 I can speak,English,Russian and Armenian fluently. Currently I'm learning, German, Italian and Japanese.
 I can easily get along with people. Im willing to learn new things.
-</pre>
+
 ## Languages 
 ![HTML](https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png)
 ![CSS3](https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png) 
