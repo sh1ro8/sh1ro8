@@ -6,7 +6,7 @@
 
 ## Languages 
 Python,CSS3,HTML5,
-Currently Im leanring C# and JS 
+Currently Im leanring C#, JS, SQL 
 ## Tools
 Figma, Photoshop, MagicaVoxel, Adobe Illustrator
 I use VSC as IDE
